@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+rect {
+  fill: rebeccapurple;
+}
+
+rect:hover {
+  fill: orange;
+}
